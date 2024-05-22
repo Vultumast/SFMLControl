@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFMLControl", "SFMLControl\SFMLControl.csproj", "{E9825BB3-F266-47A4-8643-8C1903B04A60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{49E6988E-F70C-43F6-B5BF-23EE1EBB3C2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9825BB3-F266-47A4-8643-8C1903B04A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9825BB3-F266-47A4-8643-8C1903B04A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9825BB3-F266-47A4-8643-8C1903B04A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9825BB3-F266-47A4-8643-8C1903B04A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49E6988E-F70C-43F6-B5BF-23EE1EBB3C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49E6988E-F70C-43F6-B5BF-23EE1EBB3C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49E6988E-F70C-43F6-B5BF-23EE1EBB3C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49E6988E-F70C-43F6-B5BF-23EE1EBB3C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CA93AF4-1B71-434E-BEB1-1B5EE3347BFC}
+	EndGlobalSection
+EndGlobal
